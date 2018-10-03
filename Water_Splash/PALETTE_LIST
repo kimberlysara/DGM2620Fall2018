@@ -1,3 +1,4 @@
 ToonBoomAnimationInc PaletteList 1
 palette-library/Water_Splash LINK "E:/Repos/DGM2620Fall2018/Water_Splash/palette-library/Water_Splash.plt"
 palette-library/Water_Splash_pencil_texture LINK "E:/Repos/DGM2620Fall2018/Water_Splash/palette-library/Water_Splash_pencil_texture.plt"
+palette-library/penstyle_opacity LINK "C:/Users/10808778/Documents/Repos/DGM2620Fall2018/Water_Splash/palette-library/penstyle_opacity.plt"

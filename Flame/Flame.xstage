@@ -43,6 +43,8 @@
     <dwg name="38"/>
     <dwg name="39"/>
     <dwg name="40"/>
+    <dwg name="41"/>
+    <dwg name="42"/>
    </drawings>
   </element>
   <element id="2" elementName="BG" elementFolder="BG" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -130,6 +132,9 @@
     <dwg name="36"/>
     <dwg name="37"/>
     <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
    </drawings>
   </element>
   <element id="7" elementName="glow" elementFolder="glow" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -193,12 +198,14 @@
      <elementSeq exposures="34" val="21" id="1"/>
      <elementSeq exposures="35" val="22" id="1"/>
      <elementSeq exposures="36" val="23" id="1"/>
-     <elementSeq exposures="37" val="24" id="1"/>
+     <elementSeq exposures="37" val="41" id="1"/>
+     <elementSeq exposures="38" val="42" id="1"/>
+     <elementSeq exposures="39" val="24" id="1"/>
     </column>
     <column type="0" name="BG" displayOrder="6" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-39" val="1" id="2"/>
     </column>
-    <column type="0" name="ref" display="false" displayOrder="7" width="100" anonymous="true" id="3">
+    <column type="0" name="ref" displayOrder="7" width="100" anonymous="true" id="3">
      <elementSeq exposures="1-25" val="1" id="3"/>
     </column>
     <column type="0" name="Fire2" displayOrder="1" width="100" anonymous="true" id="4">
@@ -237,7 +244,7 @@
      <elementSeq exposures="3" val="2" id="6"/>
      <elementSeq exposures="4" val="3" id="6"/>
      <elementSeq exposures="5" val="4" id="6"/>
-     <elementSeq exposures="6" val="28" id="6"/>
+     <elementSeq exposures="6" val="40" id="6"/>
      <elementSeq exposures="7" val="5" id="6"/>
      <elementSeq exposures="8" val="6" id="6"/>
      <elementSeq exposures="9" val="7" id="6"/>
@@ -268,9 +275,11 @@
      <elementSeq exposures="34" val="22" id="6"/>
      <elementSeq exposures="35" val="23" id="6"/>
      <elementSeq exposures="36" val="24" id="6"/>
-     <elementSeq exposures="37" val="25" id="6"/>
+     <elementSeq exposures="37" val="39" id="6"/>
+     <elementSeq exposures="38" val="41" id="6"/>
+     <elementSeq exposures="39" val="25" id="6"/>
     </column>
-    <column type="0" name="glow" display="false" displayOrder="5" width="100" anonymous="true" id="7">
+    <column type="0" name="glow" displayOrder="5" width="100" anonymous="true" id="7">
      <elementSeq exposures="2" val="1" id="7"/>
      <elementSeq exposures="3" val="2" id="7"/>
      <elementSeq exposures="4" val="3" id="7"/>

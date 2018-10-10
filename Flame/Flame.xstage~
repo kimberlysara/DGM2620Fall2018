@@ -208,13 +208,13 @@
     <column type="0" name="ref" displayOrder="7" width="100" anonymous="true" id="3">
      <elementSeq exposures="1-25" val="1" id="3"/>
     </column>
-    <column type="0" name="Fire2" displayOrder="1" width="100" anonymous="true" id="4">
+    <column type="0" name="Fire2" display="false" displayOrder="1" width="100" anonymous="true" id="4">
      <elementSeq exposures="2" val="1" id="4"/>
      <elementSeq exposures="3" val="2" id="4"/>
      <elementSeq exposures="4" val="3" id="4"/>
      <elementSeq exposures="5" val="4" id="4"/>
     </column>
-    <column type="0" name="Fire" displayOrder="3" width="100" anonymous="true" id="5">
+    <column type="0" name="Fire" display="false" displayOrder="3" width="100" anonymous="true" id="5">
      <elementSeq exposures="2" val="1" id="5"/>
      <elementSeq exposures="3" val="2" id="5"/>
      <elementSeq exposures="4" val="3" id="5"/>
@@ -349,6 +349,7 @@
      <module type="READ" name="Fire2" pos="0,0,0" publishUnderTab="Fire2">
       <options>
        <disabled val="true"/>
+       <locked val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -558,6 +559,7 @@
      <module type="READ" name="Fire" pos="0,0,0" publishUnderTab="Fire">
       <options>
        <disabled val="true"/>
+       <locked val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -767,6 +769,7 @@
      <module type="READ" name="glow" pos="0,0,0" publishUnderTab="glow">
       <options>
        <disabled val="true"/>
+       <locked val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>

@@ -266,6 +266,118 @@
     <dwg name="21"/>
     <dwg name="22"/>
     <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
+    <dwg name="37"/>
+    <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
+    <dwg name="42"/>
+    <dwg name="43"/>
+    <dwg name="44"/>
+    <dwg name="45"/>
+    <dwg name="46"/>
+    <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
+    <dwg name="52"/>
+    <dwg name="53"/>
+    <dwg name="54"/>
+    <dwg name="55"/>
+    <dwg name="56"/>
+    <dwg name="57"/>
+    <dwg name="58"/>
+    <dwg name="59"/>
+    <dwg name="60"/>
+    <dwg name="61"/>
+    <dwg name="62"/>
+    <dwg name="63"/>
+    <dwg name="64"/>
+    <dwg name="65"/>
+    <dwg name="66"/>
+    <dwg name="67"/>
+    <dwg name="68"/>
+    <dwg name="69"/>
+    <dwg name="70"/>
+    <dwg name="71"/>
+    <dwg name="72"/>
+    <dwg name="73"/>
+    <dwg name="74"/>
+    <dwg name="75"/>
+    <dwg name="76"/>
+    <dwg name="77"/>
+    <dwg name="78"/>
+    <dwg name="79"/>
+    <dwg name="80"/>
+   </drawings>
+  </element>
+  <element id="10" elementName="Smokelayout" elementFolder="Smokelayout" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
+    <dwg name="37"/>
+    <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
+    <dwg name="42"/>
+    <dwg name="43"/>
+    <dwg name="44"/>
+    <dwg name="45"/>
+    <dwg name="46"/>
+    <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
    </drawings>
   </element>
  </elements>
@@ -282,212 +394,290 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0956388168f009fe" nbframes="66">
+  <scene name="Top" id="0956388168f009fe" nbframes="52">
    <columns>
     <column type="0" name="Drawing" displayOrder="2" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="1" id="1"/>
-     <elementSeq exposures="4" val="13" id="1"/>
-     <elementSeq exposures="8" val="2" id="1"/>
-     <elementSeq exposures="14" val="26" id="1"/>
-     <elementSeq exposures="21" val="14" id="1"/>
-     <elementSeq exposures="35" val="27" id="1"/>
-     <elementSeq exposures="52" val="3" id="1"/>
-     <elementSeq exposures="64" val="28" id="1"/>
-     <elementSeq exposures="68" val="15" id="1"/>
-     <elementSeq exposures="72" val="29" id="1"/>
-     <elementSeq exposures="76" val="4" id="1"/>
-     <elementSeq exposures="79" val="30" id="1"/>
-     <elementSeq exposures="81" val="16" id="1"/>
-     <elementSeq exposures="83" val="31" id="1"/>
-     <elementSeq exposures="84" val="5" id="1"/>
-     <elementSeq exposures="85" val="32" id="1"/>
-     <elementSeq exposures="86" val="17" id="1"/>
-     <elementSeq exposures="87" val="33" id="1"/>
-     <elementSeq exposures="88" val="6" id="1"/>
-     <elementSeq exposures="89" val="34" id="1"/>
-     <elementSeq exposures="90" val="18" id="1"/>
-     <elementSeq exposures="91" val="35" id="1"/>
-     <elementSeq exposures="92" val="7" id="1"/>
-     <elementSeq exposures="93" val="36" id="1"/>
-     <elementSeq exposures="94" val="19" id="1"/>
-     <elementSeq exposures="95" val="37" id="1"/>
-     <elementSeq exposures="96" val="8" id="1"/>
-     <elementSeq exposures="97" val="38" id="1"/>
-     <elementSeq exposures="98" val="61" id="1"/>
-     <elementSeq exposures="99" val="46" id="1"/>
-     <elementSeq exposures="104" val="62" id="1"/>
-     <elementSeq exposures="105" val="20" id="1"/>
-     <elementSeq exposures="106" val="63" id="1"/>
-     <elementSeq exposures="107" val="47" id="1"/>
-     <elementSeq exposures="108" val="64" id="1"/>
-     <elementSeq exposures="109" val="39" id="1"/>
-     <elementSeq exposures="110" val="65" id="1"/>
-     <elementSeq exposures="111" val="48" id="1"/>
-     <elementSeq exposures="112" val="66" id="1"/>
-     <elementSeq exposures="113" val="9" id="1"/>
-     <elementSeq exposures="114" val="67" id="1"/>
-     <elementSeq exposures="115" val="49" id="1"/>
-     <elementSeq exposures="116" val="40" id="1"/>
-     <elementSeq exposures="117" val="50" id="1"/>
-     <elementSeq exposures="118" val="68" id="1"/>
-     <elementSeq exposures="119" val="21" id="1"/>
-     <elementSeq exposures="120" val="69" id="1"/>
-     <elementSeq exposures="121" val="51" id="1"/>
-     <elementSeq exposures="122" val="70" id="1"/>
-     <elementSeq exposures="123" val="41" id="1"/>
-     <elementSeq exposures="124" val="52" id="1"/>
-     <elementSeq exposures="125" val="10" id="1"/>
-     <elementSeq exposures="126" val="53" id="1"/>
-     <elementSeq exposures="127" val="71" id="1"/>
-     <elementSeq exposures="128" val="42" id="1"/>
-     <elementSeq exposures="129" val="72" id="1"/>
-     <elementSeq exposures="130" val="54" id="1"/>
-     <elementSeq exposures="131" val="73" id="1"/>
-     <elementSeq exposures="132" val="22" id="1"/>
-     <elementSeq exposures="133" val="74" id="1"/>
-     <elementSeq exposures="134" val="55" id="1"/>
-     <elementSeq exposures="135" val="75" id="1"/>
-     <elementSeq exposures="136" val="43" id="1"/>
-     <elementSeq exposures="137" val="56" id="1"/>
-     <elementSeq exposures="138" val="76" id="1"/>
-     <elementSeq exposures="139" val="11" id="1"/>
-     <elementSeq exposures="140" val="77" id="1"/>
-     <elementSeq exposures="141" val="57" id="1"/>
-     <elementSeq exposures="142" val="78" id="1"/>
-     <elementSeq exposures="143" val="44" id="1"/>
-     <elementSeq exposures="144" val="79" id="1"/>
-     <elementSeq exposures="145" val="58" id="1"/>
-     <elementSeq exposures="146" val="80" id="1"/>
-     <elementSeq exposures="147" val="23" id="1"/>
-     <elementSeq exposures="148" val="81" id="1"/>
-     <elementSeq exposures="149" val="59" id="1"/>
-     <elementSeq exposures="150" val="82" id="1"/>
-     <elementSeq exposures="151" val="45" id="1"/>
-     <elementSeq exposures="152" val="83" id="1"/>
-     <elementSeq exposures="153" val="60" id="1"/>
-     <elementSeq exposures="154" val="84" id="1"/>
-     <elementSeq exposures="155" val="12" id="1"/>
+     <elementSeq exposures="5" val="13" id="1"/>
+     <elementSeq exposures="9" val="2" id="1"/>
+     <elementSeq exposures="15" val="26" id="1"/>
+     <elementSeq exposures="22" val="14" id="1"/>
+     <elementSeq exposures="36" val="27" id="1"/>
+     <elementSeq exposures="53" val="3" id="1"/>
+     <elementSeq exposures="65" val="28" id="1"/>
+     <elementSeq exposures="69" val="15" id="1"/>
+     <elementSeq exposures="73" val="29" id="1"/>
+     <elementSeq exposures="77" val="4" id="1"/>
+     <elementSeq exposures="80" val="30" id="1"/>
+     <elementSeq exposures="82" val="16" id="1"/>
+     <elementSeq exposures="84" val="31" id="1"/>
+     <elementSeq exposures="85" val="5" id="1"/>
+     <elementSeq exposures="86" val="32" id="1"/>
+     <elementSeq exposures="87" val="17" id="1"/>
+     <elementSeq exposures="88" val="33" id="1"/>
+     <elementSeq exposures="89" val="6" id="1"/>
+     <elementSeq exposures="90" val="34" id="1"/>
+     <elementSeq exposures="91" val="18" id="1"/>
+     <elementSeq exposures="92" val="35" id="1"/>
+     <elementSeq exposures="93" val="7" id="1"/>
+     <elementSeq exposures="94" val="36" id="1"/>
+     <elementSeq exposures="95" val="19" id="1"/>
+     <elementSeq exposures="96" val="37" id="1"/>
+     <elementSeq exposures="97" val="8" id="1"/>
+     <elementSeq exposures="98" val="38" id="1"/>
+     <elementSeq exposures="99" val="61" id="1"/>
+     <elementSeq exposures="100" val="46" id="1"/>
+     <elementSeq exposures="105" val="62" id="1"/>
+     <elementSeq exposures="106" val="20" id="1"/>
+     <elementSeq exposures="107" val="63" id="1"/>
+     <elementSeq exposures="108" val="47" id="1"/>
+     <elementSeq exposures="109" val="64" id="1"/>
+     <elementSeq exposures="110" val="39" id="1"/>
+     <elementSeq exposures="111" val="65" id="1"/>
+     <elementSeq exposures="112" val="48" id="1"/>
+     <elementSeq exposures="113" val="66" id="1"/>
+     <elementSeq exposures="114" val="9" id="1"/>
+     <elementSeq exposures="115" val="67" id="1"/>
+     <elementSeq exposures="116" val="49" id="1"/>
+     <elementSeq exposures="117" val="40" id="1"/>
+     <elementSeq exposures="118" val="50" id="1"/>
+     <elementSeq exposures="119" val="68" id="1"/>
+     <elementSeq exposures="120" val="21" id="1"/>
+     <elementSeq exposures="121" val="69" id="1"/>
+     <elementSeq exposures="122" val="51" id="1"/>
+     <elementSeq exposures="123" val="70" id="1"/>
+     <elementSeq exposures="124" val="41" id="1"/>
+     <elementSeq exposures="125" val="52" id="1"/>
+     <elementSeq exposures="126" val="10" id="1"/>
+     <elementSeq exposures="127" val="53" id="1"/>
+     <elementSeq exposures="128" val="71" id="1"/>
+     <elementSeq exposures="129" val="42" id="1"/>
+     <elementSeq exposures="130" val="72" id="1"/>
+     <elementSeq exposures="131" val="54" id="1"/>
+     <elementSeq exposures="132" val="73" id="1"/>
+     <elementSeq exposures="133" val="22" id="1"/>
+     <elementSeq exposures="134" val="74" id="1"/>
+     <elementSeq exposures="135" val="55" id="1"/>
+     <elementSeq exposures="136" val="75" id="1"/>
+     <elementSeq exposures="137" val="43" id="1"/>
+     <elementSeq exposures="138" val="56" id="1"/>
+     <elementSeq exposures="139" val="76" id="1"/>
+     <elementSeq exposures="140" val="11" id="1"/>
+     <elementSeq exposures="141" val="77" id="1"/>
+     <elementSeq exposures="142" val="57" id="1"/>
+     <elementSeq exposures="143" val="78" id="1"/>
+     <elementSeq exposures="144" val="44" id="1"/>
+     <elementSeq exposures="145" val="79" id="1"/>
+     <elementSeq exposures="146" val="58" id="1"/>
+     <elementSeq exposures="147" val="80" id="1"/>
+     <elementSeq exposures="148" val="23" id="1"/>
+     <elementSeq exposures="149" val="81" id="1"/>
+     <elementSeq exposures="150" val="59" id="1"/>
+     <elementSeq exposures="151" val="82" id="1"/>
+     <elementSeq exposures="152" val="45" id="1"/>
+     <elementSeq exposures="153" val="83" id="1"/>
+     <elementSeq exposures="154" val="60" id="1"/>
+     <elementSeq exposures="155" val="84" id="1"/>
+     <elementSeq exposures="156" val="12" id="1"/>
     </column>
     <column type="0" name="Smoke" displayOrder="1" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
     </column>
-    <column type="0" name="Ref" display="false" displayOrder="3" width="100" anonymous="true" id="3">
+    <column type="0" name="Ref" displayOrder="3" width="100" anonymous="true" id="3">
      <elementSeq exposures="1" val="1" id="3"/>
     </column>
-    <column type="0" name="SmokeRough" display="false" displayOrder="6" width="100" anonymous="true" id="4">
+    <column type="0" name="SmokeRough" display="false" displayOrder="7" width="100" anonymous="true" id="4">
      <elementSeq exposures="1" val="1" id="4"/>
-     <elementSeq exposures="2" val="4" id="4"/>
-     <elementSeq exposures="3" val="3" id="4"/>
-     <elementSeq exposures="4" val="6" id="4"/>
-     <elementSeq exposures="5" val="5" id="4"/>
-     <elementSeq exposures="6" val="8" id="4"/>
-     <elementSeq exposures="7" val="7" id="4"/>
-     <elementSeq exposures="8" val="10" id="4"/>
-     <elementSeq exposures="9" val="9" id="4"/>
-     <elementSeq exposures="10" val="12" id="4"/>
-     <elementSeq exposures="11" val="11" id="4"/>
-     <elementSeq exposures="12" val="14" id="4"/>
-     <elementSeq exposures="13" val="13" id="4"/>
-     <elementSeq exposures="14" val="16" id="4"/>
-     <elementSeq exposures="15" val="15" id="4"/>
+     <elementSeq exposures="3" val="4" id="4"/>
+     <elementSeq exposures="4" val="3" id="4"/>
+     <elementSeq exposures="5" val="6" id="4"/>
+     <elementSeq exposures="6" val="5" id="4"/>
+     <elementSeq exposures="7" val="8" id="4"/>
+     <elementSeq exposures="8" val="7" id="4"/>
+     <elementSeq exposures="9" val="10" id="4"/>
+     <elementSeq exposures="10" val="9" id="4"/>
+     <elementSeq exposures="11" val="12" id="4"/>
+     <elementSeq exposures="12" val="11" id="4"/>
+     <elementSeq exposures="13" val="14" id="4"/>
+     <elementSeq exposures="14" val="13" id="4"/>
+     <elementSeq exposures="15" val="16" id="4"/>
+     <elementSeq exposures="16" val="15" id="4"/>
     </column>
     <column type="0" name="SmokeDetail" displayOrder="5" width="100" anonymous="true" id="5"/>
-    <column type="0" name="Sketch" displayOrder="8" width="100" anonymous="true" id="6">
+    <column type="0" name="Sketch" display="false" displayOrder="9" width="100" anonymous="true" id="6">
      <elementSeq exposures="1" val="1" id="6"/>
-     <elementSeq exposures="2" val="41" id="6"/>
-     <elementSeq exposures="3" val="60" id="6"/>
-     <elementSeq exposures="4" val="16" id="6"/>
-     <elementSeq exposures="5" val="61" id="6"/>
-     <elementSeq exposures="6" val="42" id="6"/>
-     <elementSeq exposures="7" val="62" id="6"/>
-     <elementSeq exposures="8" val="4" id="6"/>
-     <elementSeq exposures="9" val="43" id="6"/>
-     <elementSeq exposures="10" val="63" id="6"/>
-     <elementSeq exposures="11" val="17" id="6"/>
-     <elementSeq exposures="12" val="64" id="6"/>
-     <elementSeq exposures="13" val="44" id="6"/>
-     <elementSeq exposures="14" val="5" id="6"/>
-     <elementSeq exposures="15" val="45" id="6"/>
-     <elementSeq exposures="16" val="65" id="6"/>
-     <elementSeq exposures="17" val="18" id="6"/>
-     <elementSeq exposures="18" val="66" id="6"/>
-     <elementSeq exposures="19" val="46" id="6"/>
-     <elementSeq exposures="20" val="67" id="6"/>
-     <elementSeq exposures="21" val="6" id="6"/>
-     <elementSeq exposures="22" val="68" id="6"/>
-     <elementSeq exposures="23" val="47" id="6"/>
-     <elementSeq exposures="24" val="69" id="6"/>
-     <elementSeq exposures="25" val="28" id="6"/>
-     <elementSeq exposures="26" val="72" id="6"/>
-     <elementSeq exposures="27" val="71" id="6"/>
-     <elementSeq exposures="28" val="73" id="6"/>
-     <elementSeq exposures="29" val="70" id="6"/>
-     <elementSeq exposures="30" val="74" id="6"/>
-     <elementSeq exposures="31" val="48" id="6"/>
-     <elementSeq exposures="32" val="76" id="6"/>
-     <elementSeq exposures="33" val="75" id="6"/>
-     <elementSeq exposures="34" val="77" id="6"/>
-     <elementSeq exposures="35" val="29" id="6"/>
-     <elementSeq exposures="36" val="79" id="6"/>
-     <elementSeq exposures="37" val="78" id="6"/>
-     <elementSeq exposures="38" val="80" id="6"/>
-     <elementSeq exposures="39" val="49" id="6"/>
-     <elementSeq exposures="40" val="82" id="6"/>
-     <elementSeq exposures="41" val="81" id="6"/>
-     <elementSeq exposures="42" val="83" id="6"/>
-     <elementSeq exposures="43" val="30" id="6"/>
-     <elementSeq exposures="44" val="85" id="6"/>
-     <elementSeq exposures="45" val="84" id="6"/>
-     <elementSeq exposures="46" val="86" id="6"/>
-     <elementSeq exposures="47" val="87" id="6"/>
-     <elementSeq exposures="48" val="50" id="6"/>
-     <elementSeq exposures="49" val="89" id="6"/>
-     <elementSeq exposures="50" val="88" id="6"/>
-     <elementSeq exposures="51" val="90" id="6"/>
-     <elementSeq exposures="52" val="31" id="6"/>
-     <elementSeq exposures="53" val="92" id="6"/>
-     <elementSeq exposures="54" val="91" id="6"/>
-     <elementSeq exposures="55" val="93" id="6"/>
-     <elementSeq exposures="56" val="51" id="6"/>
-     <elementSeq exposures="57" val="94" id="6"/>
-     <elementSeq exposures="58" val="32" id="6"/>
-     <elementSeq exposures="59" val="95" id="6"/>
-     <elementSeq exposures="60" val="96" id="6"/>
-     <elementSeq exposures="61" val="52" id="6"/>
-     <elementSeq exposures="62" val="97" id="6"/>
-     <elementSeq exposures="63" val="98" id="6"/>
-     <elementSeq exposures="64" val="33" id="6"/>
+     <elementSeq exposures="3" val="41" id="6"/>
+     <elementSeq exposures="4" val="60" id="6"/>
+     <elementSeq exposures="5" val="16" id="6"/>
+     <elementSeq exposures="6" val="61" id="6"/>
+     <elementSeq exposures="7" val="42" id="6"/>
+     <elementSeq exposures="8" val="62" id="6"/>
+     <elementSeq exposures="9" val="4" id="6"/>
+     <elementSeq exposures="10" val="43" id="6"/>
+     <elementSeq exposures="11" val="63" id="6"/>
+     <elementSeq exposures="12" val="17" id="6"/>
+     <elementSeq exposures="13" val="64" id="6"/>
+     <elementSeq exposures="14" val="44" id="6"/>
+     <elementSeq exposures="15" val="5" id="6"/>
+     <elementSeq exposures="16" val="45" id="6"/>
+     <elementSeq exposures="17" val="65" id="6"/>
+     <elementSeq exposures="18" val="18" id="6"/>
+     <elementSeq exposures="19" val="66" id="6"/>
+     <elementSeq exposures="20" val="46" id="6"/>
+     <elementSeq exposures="21" val="67" id="6"/>
+     <elementSeq exposures="22" val="6" id="6"/>
+     <elementSeq exposures="23" val="68" id="6"/>
+     <elementSeq exposures="24" val="47" id="6"/>
+     <elementSeq exposures="25" val="69" id="6"/>
+     <elementSeq exposures="26" val="28" id="6"/>
+     <elementSeq exposures="27" val="72" id="6"/>
+     <elementSeq exposures="28" val="71" id="6"/>
+     <elementSeq exposures="29" val="73" id="6"/>
+     <elementSeq exposures="30" val="70" id="6"/>
+     <elementSeq exposures="31" val="74" id="6"/>
+     <elementSeq exposures="32" val="48" id="6"/>
+     <elementSeq exposures="33" val="76" id="6"/>
+     <elementSeq exposures="34" val="75" id="6"/>
+     <elementSeq exposures="35" val="77" id="6"/>
+     <elementSeq exposures="36" val="29" id="6"/>
+     <elementSeq exposures="37" val="79" id="6"/>
+     <elementSeq exposures="38" val="78" id="6"/>
+     <elementSeq exposures="39" val="80" id="6"/>
+     <elementSeq exposures="40" val="49" id="6"/>
+     <elementSeq exposures="41" val="82" id="6"/>
+     <elementSeq exposures="42" val="81" id="6"/>
+     <elementSeq exposures="43" val="83" id="6"/>
+     <elementSeq exposures="44" val="30" id="6"/>
+     <elementSeq exposures="45" val="85" id="6"/>
+     <elementSeq exposures="46" val="84" id="6"/>
+     <elementSeq exposures="47" val="86" id="6"/>
+     <elementSeq exposures="48" val="87" id="6"/>
+     <elementSeq exposures="49" val="50" id="6"/>
+     <elementSeq exposures="50" val="89" id="6"/>
+     <elementSeq exposures="51" val="88" id="6"/>
     </column>
-    <column type="0" name="Drawing_1" display="false" displayOrder="9" width="100" anonymous="true" id="7">
-     <elementSeq exposures="65" val="53_1" id="7"/>
-     <elementSeq exposures="66" val="34_1" id="7"/>
-     <elementSeq exposures="67" val="54_1" id="7"/>
-     <elementSeq exposures="68" val="35_1" id="7"/>
-     <elementSeq exposures="69" val="55_1" id="7"/>
-     <elementSeq exposures="70" val="36_1" id="7"/>
-     <elementSeq exposures="71" val="56_1" id="7"/>
-     <elementSeq exposures="72" val="37_1" id="7"/>
-     <elementSeq exposures="73" val="57_1" id="7"/>
-     <elementSeq exposures="74" val="38_1" id="7"/>
-     <elementSeq exposures="75" val="58_1" id="7"/>
-     <elementSeq exposures="76" val="39_1" id="7"/>
-     <elementSeq exposures="77" val="59_1" id="7"/>
-     <elementSeq exposures="78" val="40_1" id="7"/>
+    <column type="0" name="Drawing_1" displayOrder="10" width="100" anonymous="true" id="7">
+     <elementSeq exposures="66" val="53_1" id="7"/>
+     <elementSeq exposures="67" val="34_1" id="7"/>
+     <elementSeq exposures="68" val="54_1" id="7"/>
+     <elementSeq exposures="69" val="35_1" id="7"/>
+     <elementSeq exposures="70" val="55_1" id="7"/>
+     <elementSeq exposures="71" val="36_1" id="7"/>
+     <elementSeq exposures="72" val="56_1" id="7"/>
+     <elementSeq exposures="73" val="37_1" id="7"/>
+     <elementSeq exposures="74" val="57_1" id="7"/>
+     <elementSeq exposures="75" val="38_1" id="7"/>
+     <elementSeq exposures="76" val="58_1" id="7"/>
+     <elementSeq exposures="77" val="39_1" id="7"/>
+     <elementSeq exposures="78" val="59_1" id="7"/>
+     <elementSeq exposures="79" val="40_1" id="7"/>
     </column>
     <column type="0" name="SmokeFinal" displayOrder="4" width="100" anonymous="true" id="8"/>
-    <column type="0" name="smokelines" displayOrder="7" width="100" anonymous="true" id="9">
+    <column type="0" name="smokelines" displayOrder="8" width="100" anonymous="true" id="9">
      <elementSeq exposures="1" val="1" id="9"/>
-     <elementSeq exposures="2" val="13" id="9"/>
-     <elementSeq exposures="3" val="14" id="9"/>
-     <elementSeq exposures="4" val="15" id="9"/>
-     <elementSeq exposures="5" val="16" id="9"/>
-     <elementSeq exposures="6" val="17" id="9"/>
-     <elementSeq exposures="7" val="18" id="9"/>
-     <elementSeq exposures="8" val="19" id="9"/>
-     <elementSeq exposures="9" val="20" id="9"/>
-     <elementSeq exposures="10" val="21" id="9"/>
-     <elementSeq exposures="11" val="22" id="9"/>
-     <elementSeq exposures="12" val="23" id="9"/>
+     <elementSeq exposures="2" val="62" id="9"/>
+     <elementSeq exposures="3" val="63" id="9"/>
+     <elementSeq exposures="4" val="14" id="9"/>
+     <elementSeq exposures="5" val="64" id="9"/>
+     <elementSeq exposures="6" val="16" id="9"/>
+     <elementSeq exposures="7" val="17" id="9"/>
+     <elementSeq exposures="8" val="65" id="9"/>
+     <elementSeq exposures="9" val="66" id="9"/>
+     <elementSeq exposures="10" val="20" id="9"/>
+     <elementSeq exposures="11" val="21" id="9"/>
+     <elementSeq exposures="12" val="22" id="9"/>
+     <elementSeq exposures="13" val="67" id="9"/>
+     <elementSeq exposures="14" val="24" id="9"/>
+     <elementSeq exposures="15" val="68" id="9"/>
+     <elementSeq exposures="16" val="26" id="9"/>
+     <elementSeq exposures="17" val="27" id="9"/>
+     <elementSeq exposures="18" val="69" id="9"/>
+     <elementSeq exposures="19" val="29" id="9"/>
+     <elementSeq exposures="20" val="70" id="9"/>
+     <elementSeq exposures="21" val="31" id="9"/>
+     <elementSeq exposures="22" val="71" id="9"/>
+     <elementSeq exposures="23" val="33" id="9"/>
+     <elementSeq exposures="24" val="72" id="9"/>
+     <elementSeq exposures="25" val="35" id="9"/>
+     <elementSeq exposures="26" val="73" id="9"/>
+     <elementSeq exposures="27" val="37" id="9"/>
+     <elementSeq exposures="28" val="38" id="9"/>
+     <elementSeq exposures="29" val="74" id="9"/>
+     <elementSeq exposures="30" val="40" id="9"/>
+     <elementSeq exposures="31" val="41" id="9"/>
+     <elementSeq exposures="32" val="42" id="9"/>
+     <elementSeq exposures="33" val="75" id="9"/>
+     <elementSeq exposures="34" val="44" id="9"/>
+     <elementSeq exposures="35" val="76" id="9"/>
+     <elementSeq exposures="36" val="77" id="9"/>
+     <elementSeq exposures="37" val="78" id="9"/>
+     <elementSeq exposures="38" val="48" id="9"/>
+     <elementSeq exposures="39" val="49" id="9"/>
+     <elementSeq exposures="40" val="79" id="9"/>
+     <elementSeq exposures="41" val="51" id="9"/>
+     <elementSeq exposures="42" val="52" id="9"/>
+     <elementSeq exposures="43" val="53" id="9"/>
+     <elementSeq exposures="44" val="80" id="9"/>
+     <elementSeq exposures="45" val="55" id="9"/>
+     <elementSeq exposures="46" val="56" id="9"/>
+     <elementSeq exposures="47" val="57" id="9"/>
+     <elementSeq exposures="48" val="58" id="9"/>
+     <elementSeq exposures="49" val="59" id="9"/>
+     <elementSeq exposures="50" val="60" id="9"/>
+     <elementSeq exposures="51" val="61" id="9"/>
+    </column>
+    <column type="0" name="Smokelayout" displayOrder="6" width="100" anonymous="true" id="10">
+     <elementSeq exposures="1" val="1" id="10"/>
+     <elementSeq exposures="2" val="2" id="10"/>
+     <elementSeq exposures="3" val="3" id="10"/>
+     <elementSeq exposures="4" val="4" id="10"/>
+     <elementSeq exposures="5" val="5" id="10"/>
+     <elementSeq exposures="6" val="6" id="10"/>
+     <elementSeq exposures="7" val="7" id="10"/>
+     <elementSeq exposures="8" val="8" id="10"/>
+     <elementSeq exposures="9" val="9" id="10"/>
+     <elementSeq exposures="10" val="10" id="10"/>
+     <elementSeq exposures="11" val="11" id="10"/>
+     <elementSeq exposures="12" val="12" id="10"/>
+     <elementSeq exposures="13" val="13" id="10"/>
+     <elementSeq exposures="14" val="14" id="10"/>
+     <elementSeq exposures="15" val="15" id="10"/>
+     <elementSeq exposures="16" val="16" id="10"/>
+     <elementSeq exposures="17" val="17" id="10"/>
+     <elementSeq exposures="18" val="18" id="10"/>
+     <elementSeq exposures="19" val="19" id="10"/>
+     <elementSeq exposures="20" val="20" id="10"/>
+     <elementSeq exposures="21" val="21" id="10"/>
+     <elementSeq exposures="22" val="22" id="10"/>
+     <elementSeq exposures="23" val="23" id="10"/>
+     <elementSeq exposures="24" val="24" id="10"/>
+     <elementSeq exposures="25" val="25" id="10"/>
+     <elementSeq exposures="26" val="26" id="10"/>
+     <elementSeq exposures="27" val="27" id="10"/>
+     <elementSeq exposures="28" val="28" id="10"/>
+     <elementSeq exposures="29" val="29" id="10"/>
+     <elementSeq exposures="30" val="30" id="10"/>
+     <elementSeq exposures="31" val="31" id="10"/>
+     <elementSeq exposures="32" val="32" id="10"/>
+     <elementSeq exposures="33" val="33" id="10"/>
+     <elementSeq exposures="34" val="34" id="10"/>
+     <elementSeq exposures="35" val="35" id="10"/>
+     <elementSeq exposures="36" val="36" id="10"/>
+     <elementSeq exposures="37" val="37" id="10"/>
+     <elementSeq exposures="38" val="38" id="10"/>
+     <elementSeq exposures="39" val="39" id="10"/>
+     <elementSeq exposures="40" val="40" id="10"/>
+     <elementSeq exposures="41" val="41" id="10"/>
+     <elementSeq exposures="42" val="42" id="10"/>
+     <elementSeq exposures="43" val="43" id="10"/>
+     <elementSeq exposures="44" val="44" id="10"/>
+     <elementSeq exposures="45" val="45" id="10"/>
+     <elementSeq exposures="46" val="46" id="10"/>
+     <elementSeq exposures="47" val="47" id="10"/>
+     <elementSeq exposures="48" val="48" id="10"/>
+     <elementSeq exposures="49" val="49" id="10"/>
+     <elementSeq exposures="50" val="50" id="10"/>
+     <elementSeq exposures="51" val="51" id="10"/>
     </column>
    </columns>
    <options>
@@ -1072,6 +1262,110 @@
        <canAnimate val="true"/>
       </attrs>
      </module>
+     <module type="READ" name="Smokelayout" pos="0,0,0" publishUnderTab="Smokelayout">
+      <options>
+       <version val="1"/>
+       <collapsed val="false"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="Smokelayout">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
      <module type="READ" name="SmokeRough" pos="0,0,0" publishUnderTab="Drawing_1">
       <options>
        <disabled val="true"/>
@@ -1283,6 +1577,7 @@
      </module>
      <module type="READ" name="Sketch" pos="0,0,0" publishUnderTab="Sketch">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1494,11 +1789,12 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="Smoke" in="Composite" inport="8"/>
-     <link out="Drawing" in="Composite" inport="7"/>
-     <link out="Ref" in="Composite" inport="6"/>
-     <link out="SmokeFinal" in="Composite" inport="5"/>
-     <link out="SmokeDetail" in="Composite" inport="4"/>
+     <link out="Smoke" in="Composite" inport="9"/>
+     <link out="Drawing" in="Composite" inport="8"/>
+     <link out="Ref" in="Composite" inport="7"/>
+     <link out="SmokeFinal" in="Composite" inport="6"/>
+     <link out="SmokeDetail" in="Composite" inport="5"/>
+     <link out="Smokelayout" in="Composite" inport="4"/>
      <link out="SmokeRough" in="Composite" inport="3"/>
      <link out="smokelines" in="Composite" inport="2"/>
      <link out="Sketch" in="Composite" inport="1"/>

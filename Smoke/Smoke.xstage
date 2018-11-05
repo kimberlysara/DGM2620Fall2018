@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Advanced (HarmonyAdvanced.exe) version 14.0.1 build 12463 2017-04-10 10:58:55" version="1401" build="12463" creator="harmony">
+<project source="Harmony Advanced (HarmonyAdvanced.exe) version 15.0.5 build 13929 2018-08-13 08:19:50" version="1505" build="13929" creator="harmony">
  <elements>
   <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -240,7 +240,65 @@
     <dwg name="40_1"/>
    </drawings>
   </element>
-  <element id="8" elementName="SmokeFinal" elementFolder="SmokeFinal" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="8" elementName="SmokeFinal" elementFolder="SmokeFinal" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
+    <dwg name="37"/>
+    <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
+    <dwg name="42"/>
+    <dwg name="43"/>
+    <dwg name="44"/>
+    <dwg name="45"/>
+    <dwg name="46"/>
+    <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
+    <dwg name="52"/>
+    <dwg name="53"/>
+    <dwg name="54"/>
+    <dwg name="55"/>
+   </drawings>
+  </element>
   <element id="9" elementName="smokelines" elementFolder="smokelines" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
@@ -380,6 +438,67 @@
     <dwg name="51"/>
    </drawings>
   </element>
+  <element id="11" elementName="SmokeLayout2" elementFolder="SmokeLayout2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
+    <dwg name="37"/>
+    <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
+    <dwg name="42"/>
+    <dwg name="43"/>
+    <dwg name="44"/>
+    <dwg name="45"/>
+    <dwg name="46"/>
+    <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
+    <dwg name="52"/>
+   </drawings>
+  </element>
+  <element id="12" elementName="Back" elementFolder="Back" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -387,6 +506,7 @@
   <framerate val="24"/>
   <zdragging val="true"/>
   <zOrderCompatibilityWith7_3 val="false"/>
+  <pixelPerModelUnitForVectorLayers val="0.28799999999999998"/>
   <pixelPerModelUnitForBitmapLayers val="0.28800000000000009"/>
   <canvasForBitmapLayers size="3840,2160"/>
   <cameraInSymbols val="true"/>
@@ -486,7 +606,7 @@
     <column type="0" name="Ref" displayOrder="3" width="100" anonymous="true" id="3">
      <elementSeq exposures="1" val="1" id="3"/>
     </column>
-    <column type="0" name="SmokeRough" display="false" displayOrder="7" width="100" anonymous="true" id="4">
+    <column type="0" name="SmokeRough" display="false" displayOrder="9" width="100" anonymous="true" id="4">
      <elementSeq exposures="1" val="1" id="4"/>
      <elementSeq exposures="3" val="4" id="4"/>
      <elementSeq exposures="4" val="3" id="4"/>
@@ -503,8 +623,8 @@
      <elementSeq exposures="15" val="16" id="4"/>
      <elementSeq exposures="16" val="15" id="4"/>
     </column>
-    <column type="0" name="SmokeDetail" displayOrder="5" width="100" anonymous="true" id="5"/>
-    <column type="0" name="Sketch" display="false" displayOrder="9" width="100" anonymous="true" id="6">
+    <column type="0" name="SmokeDetail" displayOrder="6" width="100" anonymous="true" id="5"/>
+    <column type="0" name="Sketch" displayOrder="11" width="100" anonymous="true" id="6">
      <elementSeq exposures="1" val="1" id="6"/>
      <elementSeq exposures="3" val="41" id="6"/>
      <elementSeq exposures="4" val="60" id="6"/>
@@ -556,7 +676,7 @@
      <elementSeq exposures="50" val="89" id="6"/>
      <elementSeq exposures="51" val="88" id="6"/>
     </column>
-    <column type="0" name="Drawing_1" displayOrder="10" width="100" anonymous="true" id="7">
+    <column type="0" name="Drawing_1" displayOrder="12" width="100" anonymous="true" id="7">
      <elementSeq exposures="66" val="53_1" id="7"/>
      <elementSeq exposures="67" val="34_1" id="7"/>
      <elementSeq exposures="68" val="54_1" id="7"/>
@@ -572,8 +692,60 @@
      <elementSeq exposures="78" val="59_1" id="7"/>
      <elementSeq exposures="79" val="40_1" id="7"/>
     </column>
-    <column type="0" name="SmokeFinal" displayOrder="4" width="100" anonymous="true" id="8"/>
-    <column type="0" name="smokelines" displayOrder="8" width="100" anonymous="true" id="9">
+    <column type="0" name="SmokeFinal" displayOrder="5" width="100" anonymous="true" id="8">
+     <elementSeq exposures="1" val="1" id="8"/>
+     <elementSeq exposures="2" val="2" id="8"/>
+     <elementSeq exposures="3" val="3" id="8"/>
+     <elementSeq exposures="4" val="4" id="8"/>
+     <elementSeq exposures="5" val="5" id="8"/>
+     <elementSeq exposures="6" val="6" id="8"/>
+     <elementSeq exposures="7" val="7" id="8"/>
+     <elementSeq exposures="8" val="8" id="8"/>
+     <elementSeq exposures="9" val="13" id="8"/>
+     <elementSeq exposures="10" val="14" id="8"/>
+     <elementSeq exposures="11" val="15" id="8"/>
+     <elementSeq exposures="12" val="16" id="8"/>
+     <elementSeq exposures="13" val="17" id="8"/>
+     <elementSeq exposures="14" val="18" id="8"/>
+     <elementSeq exposures="15" val="19" id="8"/>
+     <elementSeq exposures="16" val="20" id="8"/>
+     <elementSeq exposures="17" val="21" id="8"/>
+     <elementSeq exposures="18" val="22" id="8"/>
+     <elementSeq exposures="19" val="23" id="8"/>
+     <elementSeq exposures="20" val="24" id="8"/>
+     <elementSeq exposures="21" val="25" id="8"/>
+     <elementSeq exposures="22" val="26" id="8"/>
+     <elementSeq exposures="23" val="27" id="8"/>
+     <elementSeq exposures="24" val="28" id="8"/>
+     <elementSeq exposures="25" val="29" id="8"/>
+     <elementSeq exposures="26" val="30" id="8"/>
+     <elementSeq exposures="27" val="31" id="8"/>
+     <elementSeq exposures="28" val="32" id="8"/>
+     <elementSeq exposures="29" val="33" id="8"/>
+     <elementSeq exposures="30" val="34" id="8"/>
+     <elementSeq exposures="31" val="35" id="8"/>
+     <elementSeq exposures="32" val="36" id="8"/>
+     <elementSeq exposures="33" val="37" id="8"/>
+     <elementSeq exposures="34" val="38" id="8"/>
+     <elementSeq exposures="35" val="39" id="8"/>
+     <elementSeq exposures="36" val="40" id="8"/>
+     <elementSeq exposures="37" val="41" id="8"/>
+     <elementSeq exposures="38" val="42" id="8"/>
+     <elementSeq exposures="39" val="43" id="8"/>
+     <elementSeq exposures="40" val="44" id="8"/>
+     <elementSeq exposures="41" val="45" id="8"/>
+     <elementSeq exposures="42" val="46" id="8"/>
+     <elementSeq exposures="43" val="47" id="8"/>
+     <elementSeq exposures="44" val="48" id="8"/>
+     <elementSeq exposures="45" val="49" id="8"/>
+     <elementSeq exposures="46" val="50" id="8"/>
+     <elementSeq exposures="47" val="51" id="8"/>
+     <elementSeq exposures="48" val="52" id="8"/>
+     <elementSeq exposures="49" val="53" id="8"/>
+     <elementSeq exposures="50" val="54" id="8"/>
+     <elementSeq exposures="51" val="55" id="8"/>
+    </column>
+    <column type="0" name="smokelines" display="false" displayOrder="10" width="100" anonymous="true" id="9">
      <elementSeq exposures="1" val="1" id="9"/>
      <elementSeq exposures="2" val="62" id="9"/>
      <elementSeq exposures="3" val="63" id="9"/>
@@ -626,7 +798,7 @@
      <elementSeq exposures="50" val="60" id="9"/>
      <elementSeq exposures="51" val="61" id="9"/>
     </column>
-    <column type="0" name="Smokelayout" displayOrder="6" width="100" anonymous="true" id="10">
+    <column type="0" name="Smokelayout" display="false" displayOrder="8" width="100" anonymous="true" id="10">
      <elementSeq exposures="1" val="1" id="10"/>
      <elementSeq exposures="2" val="2" id="10"/>
      <elementSeq exposures="3" val="3" id="10"/>
@@ -679,6 +851,115 @@
      <elementSeq exposures="50" val="50" id="10"/>
      <elementSeq exposures="51" val="51" id="10"/>
     </column>
+    <column type="0" name="SmokeLayout2" displayOrder="7" width="100" anonymous="true" id="11">
+     <elementSeq exposures="1" val="1" id="11"/>
+     <elementSeq exposures="2" val="2" id="11"/>
+     <elementSeq exposures="3" val="3" id="11"/>
+     <elementSeq exposures="4" val="4" id="11"/>
+     <elementSeq exposures="5" val="5" id="11"/>
+     <elementSeq exposures="6" val="6" id="11"/>
+     <elementSeq exposures="7" val="7" id="11"/>
+     <elementSeq exposures="8" val="8" id="11"/>
+     <elementSeq exposures="9" val="9" id="11"/>
+     <elementSeq exposures="10" val="10" id="11"/>
+     <elementSeq exposures="11" val="11" id="11"/>
+     <elementSeq exposures="12" val="12" id="11"/>
+     <elementSeq exposures="13" val="13" id="11"/>
+     <elementSeq exposures="14" val="14" id="11"/>
+     <elementSeq exposures="15" val="15" id="11"/>
+     <elementSeq exposures="16" val="16" id="11"/>
+     <elementSeq exposures="17" val="17" id="11"/>
+     <elementSeq exposures="18" val="18" id="11"/>
+     <elementSeq exposures="19" val="19" id="11"/>
+     <elementSeq exposures="20" val="20" id="11"/>
+     <elementSeq exposures="21" val="21" id="11"/>
+     <elementSeq exposures="22" val="22" id="11"/>
+     <elementSeq exposures="23" val="23" id="11"/>
+     <elementSeq exposures="24" val="24" id="11"/>
+     <elementSeq exposures="25" val="25" id="11"/>
+     <elementSeq exposures="26" val="26" id="11"/>
+     <elementSeq exposures="27" val="27" id="11"/>
+     <elementSeq exposures="28" val="28" id="11"/>
+     <elementSeq exposures="29" val="29" id="11"/>
+     <elementSeq exposures="30" val="30" id="11"/>
+     <elementSeq exposures="31" val="31" id="11"/>
+     <elementSeq exposures="32" val="32" id="11"/>
+     <elementSeq exposures="33" val="33" id="11"/>
+     <elementSeq exposures="34" val="34" id="11"/>
+     <elementSeq exposures="35" val="35" id="11"/>
+     <elementSeq exposures="36" val="36" id="11"/>
+     <elementSeq exposures="37" val="37" id="11"/>
+     <elementSeq exposures="38" val="38" id="11"/>
+     <elementSeq exposures="39" val="39" id="11"/>
+     <elementSeq exposures="40" val="44" id="11"/>
+     <elementSeq exposures="41" val="40" id="11"/>
+     <elementSeq exposures="42" val="41" id="11"/>
+     <elementSeq exposures="43" val="42" id="11"/>
+     <elementSeq exposures="44" val="45" id="11"/>
+     <elementSeq exposures="45" val="46" id="11"/>
+     <elementSeq exposures="46" val="47" id="11"/>
+     <elementSeq exposures="47" val="48" id="11"/>
+     <elementSeq exposures="48" val="52" id="11"/>
+     <elementSeq exposures="49" val="49" id="11"/>
+     <elementSeq exposures="50" val="50" id="11"/>
+     <elementSeq exposures="51" val="51" id="11"/>
+    </column>
+    <column type="0" name="ATV-095940329EA18934" displayOrder="4" width="100" anonymous="true" id="8">
+     <elementSeq exposures="1" val="1" id="8"/>
+     <elementSeq exposures="2" val="2" id="8"/>
+     <elementSeq exposures="3" val="3" id="8"/>
+     <elementSeq exposures="4" val="4" id="8"/>
+     <elementSeq exposures="5" val="5" id="8"/>
+     <elementSeq exposures="6" val="6" id="8"/>
+     <elementSeq exposures="7" val="7" id="8"/>
+     <elementSeq exposures="8" val="8" id="8"/>
+     <elementSeq exposures="9" val="13" id="8"/>
+     <elementSeq exposures="10" val="14" id="8"/>
+     <elementSeq exposures="11" val="15" id="8"/>
+     <elementSeq exposures="12" val="16" id="8"/>
+     <elementSeq exposures="13" val="17" id="8"/>
+     <elementSeq exposures="14" val="18" id="8"/>
+     <elementSeq exposures="15" val="19" id="8"/>
+     <elementSeq exposures="16" val="20" id="8"/>
+     <elementSeq exposures="17" val="21" id="8"/>
+     <elementSeq exposures="18" val="22" id="8"/>
+     <elementSeq exposures="19" val="23" id="8"/>
+     <elementSeq exposures="20" val="24" id="8"/>
+     <elementSeq exposures="21" val="25" id="8"/>
+     <elementSeq exposures="22" val="26" id="8"/>
+     <elementSeq exposures="23" val="27" id="8"/>
+     <elementSeq exposures="24" val="28" id="8"/>
+     <elementSeq exposures="25" val="29" id="8"/>
+     <elementSeq exposures="26" val="30" id="8"/>
+     <elementSeq exposures="27" val="31" id="8"/>
+     <elementSeq exposures="28" val="32" id="8"/>
+     <elementSeq exposures="29" val="33" id="8"/>
+     <elementSeq exposures="30" val="34" id="8"/>
+     <elementSeq exposures="31" val="35" id="8"/>
+     <elementSeq exposures="32" val="36" id="8"/>
+     <elementSeq exposures="33" val="37" id="8"/>
+     <elementSeq exposures="34" val="38" id="8"/>
+     <elementSeq exposures="35" val="39" id="8"/>
+     <elementSeq exposures="36" val="40" id="8"/>
+     <elementSeq exposures="37" val="41" id="8"/>
+     <elementSeq exposures="38" val="42" id="8"/>
+     <elementSeq exposures="39" val="43" id="8"/>
+     <elementSeq exposures="40" val="44" id="8"/>
+     <elementSeq exposures="41" val="45" id="8"/>
+     <elementSeq exposures="42" val="46" id="8"/>
+     <elementSeq exposures="43" val="47" id="8"/>
+     <elementSeq exposures="44" val="48" id="8"/>
+     <elementSeq exposures="45" val="49" id="8"/>
+     <elementSeq exposures="46" val="50" id="8"/>
+     <elementSeq exposures="47" val="51" id="8"/>
+     <elementSeq exposures="48" val="52" id="8"/>
+     <elementSeq exposures="49" val="53" id="8"/>
+     <elementSeq exposures="50" val="54" id="8"/>
+     <elementSeq exposures="51" val="55" id="8"/>
+    </column>
+    <column type="0" name="Back" displayOrder="13" width="100" anonymous="true" id="12">
+     <elementSeq exposures="1-51,52" val="1" id="12"/>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -690,8 +971,8 @@
     <nodeslist>
      <module type="COMPOSITE" name="Composite" pos="0,0,0" publishUnderTab="Composite">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <compositeMode val="compositeBitmap"/>
@@ -709,19 +990,20 @@
      </module>
      <module type="DISPLAY" name="Display" pos="50,50,0" publishUnderTab="Display">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
      </module>
      <module type="WRITE" name="Write" pos="-50,50,0" publishUnderTab="Write">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <exportToMovie val="false"/>
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
+       <movieFormat val="com.toonboom.quicktime.legacy"/>
        <movieAudio/>
        <movieVideo/>
        <movieVideoaudio/>
@@ -742,8 +1024,8 @@
      <module type="READ" name="Smoke" pos="0,0,0" publishUnderTab="Drawing_1">
       <options>
        <disabled val="true"/>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -817,8 +1099,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -847,8 +1134,8 @@
      <module type="READ" name="Drawing" pos="-65,-50,0" publishUnderTab="Drawing">
       <options>
        <disabled val="true"/>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -922,8 +1209,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -952,8 +1244,8 @@
      <module type="READ" name="Ref" pos="0,0,0" publishUnderTab="SMoke2">
       <options>
        <disabled val="true"/>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1027,8 +1319,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -1056,8 +1353,8 @@
      </module>
      <module type="READ" name="SmokeFinal" pos="0,0,0" publishUnderTab="SmokeFinal">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1131,8 +1428,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -1160,8 +1462,8 @@
      </module>
      <module type="READ" name="SmokeDetail" pos="0,0,0" publishUnderTab="SmokeDetail">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1235,8 +1537,122 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="SmokeLayout2" pos="0,0,0" publishUnderTab="SmokeLayout2">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="SmokeLayout2">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -1264,8 +1680,9 @@
      </module>
      <module type="READ" name="Smokelayout" pos="0,0,0" publishUnderTab="Smokelayout">
       <options>
-       <version val="1"/>
+       <disabled val="true"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1339,8 +1756,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -1369,8 +1791,8 @@
      <module type="READ" name="SmokeRough" pos="0,0,0" publishUnderTab="Drawing_1">
       <options>
        <disabled val="true"/>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1444,8 +1866,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -1473,8 +1900,9 @@
      </module>
      <module type="READ" name="smokelines" pos="0,0,0" publishUnderTab="smokelines">
       <options>
-       <version val="1"/>
+       <disabled val="true"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1548,8 +1976,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -1578,8 +2011,8 @@
      <module type="READ" name="Sketch" pos="0,0,0" publishUnderTab="Sketch">
       <options>
        <disabled val="true"/>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1653,8 +2086,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -1683,8 +2121,8 @@
      <module type="READ" name="Drawing_1" pos="0,0,0" publishUnderTab="Drawing_1">
       <options>
        <disabled val="true"/>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -1758,8 +2196,231 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="SmokeFinal_1" pos="0,0,0" publishUnderTab="SmokeFinal_1">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-095940329EA18934">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Back" pos="0,0,0" publishUnderTab="Back">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="Back">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -1789,18 +2450,26 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="Smoke" in="Composite" inport="9"/>
-     <link out="Drawing" in="Composite" inport="8"/>
-     <link out="Ref" in="Composite" inport="7"/>
-     <link out="SmokeFinal" in="Composite" inport="6"/>
-     <link out="SmokeDetail" in="Composite" inport="5"/>
-     <link out="Smokelayout" in="Composite" inport="4"/>
-     <link out="SmokeRough" in="Composite" inport="3"/>
-     <link out="smokelines" in="Composite" inport="2"/>
-     <link out="Sketch" in="Composite" inport="1"/>
-     <link out="Drawing_1" in="Composite" inport="0"/>
+     <link out="Smoke" in="Composite" inport="12"/>
+     <link out="Drawing" in="Composite" inport="11"/>
+     <link out="Ref" in="Composite" inport="10"/>
+     <link out="SmokeFinal" in="Composite" inport="8"/>
+     <link out="SmokeDetail" in="Composite" inport="7"/>
+     <link out="SmokeLayout2" in="Composite" inport="6"/>
+     <link out="Smokelayout" in="Composite" inport="5"/>
+     <link out="SmokeRough" in="Composite" inport="4"/>
+     <link out="smokelines" in="Composite" inport="3"/>
+     <link out="Sketch" in="Composite" inport="2"/>
+     <link out="Drawing_1" in="Composite" inport="1"/>
+     <link out="SmokeFinal_1" in="Composite" inport="9"/>
+     <link out="Back" in="Composite" inport="0"/>
     </linkedlist>
    </rootgroup>
+   <metas>
+    <meta type="guideList" name="guideList" creator="Harmony Advanced" version="1.0">
+     <guideList selectedGuide="-1"/>
+    </meta>
+   </metas>
   </scene>
  </scenes>
  <symbols>

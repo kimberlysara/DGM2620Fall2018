@@ -606,7 +606,7 @@
     <column type="0" name="Ref" displayOrder="3" width="100" anonymous="true" id="3">
      <elementSeq exposures="1" val="1" id="3"/>
     </column>
-    <column type="0" name="SmokeRough" display="false" displayOrder="9" width="100" anonymous="true" id="4">
+    <column type="0" name="SmokeRough" displayOrder="9" width="100" anonymous="true" id="4">
      <elementSeq exposures="1" val="1" id="4"/>
      <elementSeq exposures="3" val="4" id="4"/>
      <elementSeq exposures="4" val="3" id="4"/>
@@ -745,7 +745,7 @@
      <elementSeq exposures="50" val="54" id="8"/>
      <elementSeq exposures="51" val="55" id="8"/>
     </column>
-    <column type="0" name="smokelines" display="false" displayOrder="10" width="100" anonymous="true" id="9">
+    <column type="0" name="smokelines" displayOrder="10" width="100" anonymous="true" id="9">
      <elementSeq exposures="1" val="1" id="9"/>
      <elementSeq exposures="2" val="62" id="9"/>
      <elementSeq exposures="3" val="63" id="9"/>
@@ -798,7 +798,7 @@
      <elementSeq exposures="50" val="60" id="9"/>
      <elementSeq exposures="51" val="61" id="9"/>
     </column>
-    <column type="0" name="Smokelayout" display="false" displayOrder="8" width="100" anonymous="true" id="10">
+    <column type="0" name="Smokelayout" displayOrder="8" width="100" anonymous="true" id="10">
      <elementSeq exposures="1" val="1" id="10"/>
      <elementSeq exposures="2" val="2" id="10"/>
      <elementSeq exposures="3" val="3" id="10"/>

@@ -213,6 +213,10 @@
     <dwg name="140"/>
     <dwg name="141"/>
     <dwg name="142"/>
+    <dwg name="143"/>
+    <dwg name="144"/>
+    <dwg name="145"/>
+    <dwg name="146"/>
    </drawings>
   </element>
   <element id="5" elementName="Drawing_1" elementFolder="Drawing_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -926,6 +930,10 @@
      <elementSeq exposures="275-278" val="129" id="3"/>
      <elementSeq exposures="279-284" val="130" id="3"/>
      <elementSeq exposures="285" val="22" id="3"/>
+     <elementSeq exposures="286" val="143" id="3"/>
+     <elementSeq exposures="287" val="144" id="3"/>
+     <elementSeq exposures="288" val="145" id="3"/>
+     <elementSeq exposures="289" val="146" id="3"/>
     </column>
     <column type="0" name="Drawing_1" displayOrder="5" width="100" anonymous="true" id="5">
      <elementSeq exposures="5" val="1" id="5"/>
